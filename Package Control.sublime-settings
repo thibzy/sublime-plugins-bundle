@@ -1,7 +1,12 @@
 {
 	"installed_packages":
 	[
+		"Dayle Rees Color Schemes",
+		"Local History",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Theme - Soda"
 	]
 }
