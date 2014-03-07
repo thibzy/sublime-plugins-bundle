@@ -1,5 +1,4 @@
 {
-    "highlight_modified_tabs": true,
 	"color_scheme": "Packages/User/BlueDawn (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
@@ -9,6 +8,7 @@
 	"fallback_encoding": "UTF-8",
 	"font_size": 10.0,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
